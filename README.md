@@ -1,4 +1,5 @@
 # LegalEase — AI-Powered Legal Document Generator
+github link: https://github.com/Lakshetha2014/LegalEase.git
 
 LegalEase is a FastAPI web application for creating editable AI-assisted drafts of:
 - Employment Contracts
